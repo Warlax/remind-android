@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name -->
+    <string name="app_name">Remind</string>
+
+    <!-- Displayed when there are no reminders set up -->
+    <string name="no_reminders">There are no reminders</string>
+
+    <!-- Action to add an item to a collection -->
+    <string name="action_add">Add</string>
+
+    <!-- Action to edit an item -->
+    <string name="action_edit">Edit</string>
+    
+    <!-- Action to create an item -->
+    <string name="action_create">Create</string>
+
+    <!-- Action to save an item -->
+    <string name="action_save">Save</string>
+
+    <!-- Action to delete an item -->
+    <string name="action_delete">Delete</string>
+    
+    <!-- Label for the reminder title -->
+    <string name="label_title">Title</string>
+
+    <!-- Label for the reminder time -->
+    <string name="label_time">Time</string>
+    
+    <!-- Hint for filling the reminder title -->
+    <string name="hint_title">Enter a title</string>
+
+    <!-- Shown when a reminder had been created -->
+    <string name="message_reminder_created">Reminder created</string>
+
+    <!-- Shown when a reminder had been updated -->
+    <string name="message_reminder_updated">Reminder updated</string>
+
+    <!-- Shown when a reminder had been deleted -->
+    <string name="message_reminder_deleted">Reminder deleted</string>
+
+    <!-- Shown when multiple reminders have been deleted -->
+    <string name="message_reminders_deleted">%d reminders deleted</string>
+    
+    <!-- Shown when multiple items are selected -->
+    <string name="selected">%d selected</string>
+
+    <!-- Message for confirm dialogs -->
+    <string name="message_confirm_message">Are you sure?</string>
+</resources>
