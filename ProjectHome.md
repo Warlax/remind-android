@@ -1,0 +1,1 @@
+This is intended as an example of the IntentService-based app architecture. It does NOT actually schedule any reminders or alarms - for now.
